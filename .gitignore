@@ -5,3 +5,4 @@
 !similarity_compressed.pkl.gz
 .venv/
 __pycache__/
+similarity.pkl
